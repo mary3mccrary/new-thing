@@ -1,0 +1,7 @@
+title: Help us blog
+author: 
+  name: Why Who
+  email: email@whatever
+description: 'How to make a static site'
+
+remote_theme: jekyll/minima
